@@ -1,0 +1,26 @@
+{
+  "name": "http-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.7.9",
+    "http-server": "^0.12.3",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node_modules/.bin/http-server src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dexter2217/DrinkDecider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dexter2217/DrinkDecider/issues"
+  },
+  "homepage": "https://github.com/Dexter2217/DrinkDecider#readme"
+}
